@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Шаблон каталога курса для студентов
 
 ## Скачать репозиторий
@@ -108,3 +109,6 @@ git clone --recursive https://github.com/yamadharma/course-directory-student-tem
     git commit -am 'feat(main): make course structure'
     git push
     ```
+=======
+# Laboratory works
+>>>>>>> 6938231 (add)
